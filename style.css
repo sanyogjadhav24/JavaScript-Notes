@@ -1,0 +1,59 @@
+/* #heading{
+    color:blue;
+    background-color: yellow;
+}
+
+body{
+    background-color: pink;
+}
+button{
+    color:white;
+    background-color: black;
+}
+
+.header{
+    color:blue;
+    background-color: yellow;
+} */
+ .box{
+    height: 100px;
+    width: 100px;
+    border:1px solid black;
+    margin:5px;
+    text-align: center;
+    background-color: aqua;
+ }
+
+ #box{
+    height:300px;
+    width:100px;
+    background-color: black;
+    color:white;
+    border:1px solid black;
+ }
+.content{
+    color:red;
+
+
+}
+.newClass{
+    background-color: green;
+}
+div{
+    height:100px;
+    width:100px;
+    background-color: dodgerblue;
+    color:white;
+    border:1px solid black;
+}
+
+.dark{
+    background-color: black;
+    color:white;
+
+}
+
+.light{
+    background-color: white;
+    color:black;
+}
